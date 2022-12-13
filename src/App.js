@@ -3,7 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <Text align="center">mishra ji</Text>
+   <div className='App'>
+    
+   </div>
   );
 }
 
