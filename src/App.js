@@ -1,10 +1,11 @@
-import { Text } from '@chakra-ui/react';
+
 import './App.css';
+import MainNavbar from './components/Navbar/MainNavbar';
 
 function App() {
   return (
    <div className='App'>
-    
+    <MainNavbar />
    </div>
   );
 }
