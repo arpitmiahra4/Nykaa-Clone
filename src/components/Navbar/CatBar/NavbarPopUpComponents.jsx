@@ -40,4 +40,4 @@ const NavbarPopUpComponents = ({type}) => {
   )
 }
 
-export default NavbarPopUpComponents
+export default NavbarPopUpComponents;
