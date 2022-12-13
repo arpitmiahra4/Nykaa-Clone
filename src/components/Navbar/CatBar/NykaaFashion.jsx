@@ -35,7 +35,7 @@ const Nyaka = styled.div`
   }
 `;
 
-const NyakaFashion = () => {
+const NykaaFashion = () => {
   return (
     <Nyaka>
       <div className="nyaka">
@@ -121,7 +121,7 @@ const NyakaFashion = () => {
         </div>
         <div>
           <img
-            src="https://www.nykaa.com/media/wysiwyg/2022/NF-megamenu.jpg"
+            src="https://www.nykaa.com/media/wysiwyg/2022/NF-megamenua.jpg"
             alt=""
           />
         </div>
@@ -130,4 +130,4 @@ const NyakaFashion = () => {
   );
 };
 
-export default NyakaFashion;
+export default NykaaFashion;
