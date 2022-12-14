@@ -101,3 +101,86 @@ const cardImages5 = [
     discount: "  Upto 30% Off",
   },
 ];
+const cardImages6 = [
+    {
+      url: "https://images-static.nykaa.com/uploads/3671a728-2665-44e1-8065-f7f75308c3cb.gif?tr=w-1200,cm-pad_resize",
+      tittle: "explore more+",
+      discount: "50%-60%",
+    },
+    {
+      url: "https://images-static.nykaa.com/uploads/0767a3b8-61ec-43b0-901b-76ae5563fdb8.png?tr=w-1200,cm-pad_resize",
+      tittle: "explore more+",
+      discount: "50%-60%",
+    },
+  ];
+  const cardImages7 = [
+    {
+      url: "https://images-static.nykaa.com/uploads/e6ae051f-56e7-4079-93e4-b844af6e1d49.jpg?tr=w-1200,cm-pad_resize",
+    },
+    {
+      url: "https://images-static.nykaa.com/uploads/39824e2a-d94a-4ddc-8148-3702c67ac2b3.jpg?tr=w-1200,cm-pad_resize",
+    },
+  ];
+  
+  function HomePage() {
+    return (
+      <div>
+        <Carousel1 />
+  
+        <div className={styles.banner}>
+          <img
+            src="https://images-static.nykaa.com/uploads/19367bb9-be89-428e-8892-e6f1ad9718f2.jpg?tr=w-2400,cm-pad_resize"
+            alt="banner1"
+          />
+        </div>
+        <h1 className={styles.bigheader}>HOT PINK SALE - COMING SOON!</h1>
+        <div>
+          <img
+            className={styles.banner2}
+            src="https://images-static.nykaa.com/uploads/618d58d6-cb47-4c1d-95dd-1abd3a5273b8.gif?tr=w-2400,cm-pad_resize"
+            alt="banner2"
+          />
+        </div>
+        <div className={styles.card}>
+          {cardImages1.map((cards, index) => (
+            <Stack
+              borderWidth="1px"
+              borderRadius="lg"
+              w={{ sm: "100%", md: "560px" }}
+              height={{ sm: "476px", md: "18.8rem" }}
+              direction={{ base: "column", md: "row" }}
+              marginTop={"20px"}
+            >
+              {" "}
+              <div className="each-slide" key={index}>
+                <div>
+                  <img
+                    className={styles.desimcal}
+                    src={`${cards.url}`}
+                    alt="card"
+                  />
+                </div>
+              </div>
+            </Stack>
+          ))}
+        </div>
+        <div className={styles.cardsquare}>
+          <div>
+            <img
+              src="https://images-static.nykaa.com/uploads/887f5bce-b082-44f7-a5b4-00c7120ee5ba.png?tr=w-800,cm-pad_resize"
+              alt=""
+            />
+          </div>
+          <div>
+            <img
+              src="https://images-static.nykaa.com/uploads/72989133-c367-4986-b66e-5c49c00a0249.png?tr=w-800,cm-pad_resize"
+              alt=""
+            />
+          </div>
+          <div>
+            <img
+              src="https://images-static.nykaa.com/uploads/fd031c0b-bd81-471c-86b2-6395ae0da879.png?tr=w-800,cm-pad_resize"
+              alt=""
+            />
+          </div>
+        </div>
