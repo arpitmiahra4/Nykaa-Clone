@@ -42,7 +42,7 @@ const Navbar = () => {
               className={style.card4}
               alt="nykka"
             />
-            <p>Categories</p>
+            <p onClick={() => navigate("/products")}>Categories</p>
             <p onMouseOver={() => hoverHandler("BRANDS")}>Brands</p>
             <p onMouseEnter={() => hoverHandler("LUXE")}>Luxe</p>
             <p onMouseEnter={() => hoverHandler("NYKAA")}>Nykaa Fashion</p>
