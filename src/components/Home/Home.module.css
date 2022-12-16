@@ -183,3 +183,11 @@ background-color: #fff6f9;
 border: 1px solid gray;
 border-radius: 10px;
 }
+.dis_nyka{
+  display: flex;
+  gap: 30px;
+}
+.dis_cont{
+  border: 1px solid gray;
+  border-radius: 10px;
+}

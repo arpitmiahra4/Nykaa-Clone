@@ -153,6 +153,24 @@ const Influencer = [
     dis:"Wedding Glam Picks"
   },
 ]
+const dis_nyka = [
+  {
+    src:"https://images-static.nykaa.com/uploads/722cbc0f-ca72-47a8-baa3-ecec4522eaf0.jpg?tr=w-400,cm-pad_resize",
+    title:"Celebrating Indian Homegrown Brands",
+    dis:"Shop Now"
+  },
+  {
+    src:"https://images-static.nykaa.com/uploads/d4a3fc4d-3fb7-4303-b1e4-95fee8e06b50.jpg?tr=w-400,cm-pad_resize",
+    title:"Exciting Brands and Latest Launches",
+    dis:"Show New Brands"
+  },
+  {
+    src:"https://images-static.nykaa.com/uploads/4ebe90ae-8b35-43a9-b307-fd16313f4f15.jpg?tr=w-400,cm-pad_resize",
+    title:"Coveted Niche Brands For You",
+    dis:"Shop Now"
+  },
+  
+]
 const Home = () => {
   axios.get("http://localhost:4000").then((res)=>console.log(res)).catch((err)=>console.log(err.message))
   return (
@@ -336,6 +354,25 @@ const Home = () => {
     <Box mt={10}>
     <Text fontWeight="bold" fontSize={30}>Discover More At Nykaa</Text>
     <Text fontSize={20}>Special Offerings</Text>
+    <div className={styles.dis_nyka}>
+      {dis_nyka.map((el,i)=>(
+        <div key={i} className={styles.dis_cont}>
+          <Image src={el.src} alt={`error ${i}`} width="450px" borderRadius={10}/>
+          <div className={styles.top_content}>
+          <Text fontWeight="bold">{el.title}</Text>
+          <Text color="gray.700">{el.dis}</Text>
+          </div>
+        </div>
+      ))}
+      </div>
+    </Box>
+    <Box mt={10}>
+    <Text fontWeight="bold" fontSize={30}>Pop-Up Stores</Text>
+    <Text fontSize={20}>From Nykaa Fashion</Text>
+    <Box mt={5} display="flex" gap={5}>
+      <Image src="https://images-static.nykaa.com/uploads/386bd4dc-d11e-4117-aae2-b917127e8624.jpg?tr=w-600,cm-pad_resize" w="700px" borderRadius={10}/>
+      <Image src="https://images-static.nykaa.com/uploads/efec51c7-9c99-4f4f-a697-fd00caf8b548.jpg?tr=w-600,cm-pad_resize" w="700px" borderRadius={10}/>
+    </Box>
     </Box>
     </div>
   )
