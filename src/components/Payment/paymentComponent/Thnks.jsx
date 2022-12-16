@@ -1,7 +1,5 @@
 import React from 'react'
-
 import {Alert,AlertIcon,AlertDescription,AlertTitle} from "@chakra-ui/react"
-
 function Thnks() {
   return (
     <div>
@@ -17,23 +15,16 @@ function Thnks() {
   height='200px'
 >
   <AlertIcon boxSize='40px' mr={0} />
-
   <AlertTitle mt={4} mb={1} fontSize='lg'>
     
 Payment Done!
-
   </AlertTitle>
-
   <AlertDescription maxWidth='sm'>
-
-  Thank you for your purchase !
+  Thank you for your purchase!
   </AlertDescription>
-
 </Alert>
-
     </div>
   )
-
 }
 
 export default Thnks
