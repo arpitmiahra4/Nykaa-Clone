@@ -33,11 +33,12 @@
     "price": 1295,
     "cuttedPrice":"MRP1099",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_3.jpg"
 
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_1.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_2.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_3.jpg",
+   
     "brand": "Nykaa",
     "category": "Lipstics",
     "sub_category": "Lipsticks",
@@ -51,11 +52,12 @@
     "price": 7000,
     "cuttedPrice":"MRP6300",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__2.jpg",
+     "https://images-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__3.jpg"
 
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__1.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__2.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__3.jpg",
+     
     "brand": "M.A.C",
     "category": "Lipsticks",
     "sub_category": "Lipsticks",
@@ -66,14 +68,15 @@
     "subTitle": "Maybelline New York Color Sensational Ultimattes Lipstick - More Scarlet",
     "title": "Maybelline New York Color Sensational Ultimattes Lipstick - More Scarlet",
   "Images":[
+    "https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249_1.jpg",
+    "https://images-static.nykaa.com/media/catalog/product/b/d/bdd7491nyphilips0009as__4_.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "price": 1345,
     "cuttedPrice":"MRP967",
     
-    "src": "https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249_1.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/b/d/bdd7491nyphilips0009as__4_.jpg?tr=w-344,h-344,cm-pad_resize"
+    "src": "https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249.jpg"
+   
   },
   {
     "card_title": "Philips Selfie Straightener (HP8302/06)",
@@ -84,11 +87,12 @@
     "price": 1295,
     "cuttedPrice":"MRP1099",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/2/9/29cd491nyphilips0015as__2_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/2/9/29cd491nyphilips0015as__3_.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/2/9/29cd491nyphilips0015as__1_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/2/9/29cd491nyphilips0015as__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/2/9/29cd491nyphilips0015as__3_.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Philips India",
     "category": "HairCare",
     "sub_category": "Straighteners",
@@ -102,11 +106,12 @@
     "price": 7000,
     "cuttedPrice":"MRP6300",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/7/d/7d5f64a8904231000124_2.jpg?tr=w-344,h-344,cm-pad_resize",
+     "https://images-static.nykaa.com/media/catalog/product/7/d/7d5f64a8904231000124_3.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/7/d/7d5f64a8904231000124_1.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/7/d/7d5f64a8904231000124_2.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/7/d/7d5f64a8904231000124_3.jpg?tr=w-344,h-344,cm-pad_resize",
+     
     "brand": "Ikonic Professional",
     "category": "HairCare",
     "sub_category": "Straighteners",
@@ -120,11 +125,11 @@
     "price": 1345,
     "cuttedPrice":"MRP967",
     "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/b/d/bdd7491nyphilips0009as__2_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/b/d/bdd7491nyphilips0009as__4_.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/b/d/bdd7491nyphilips0009as__1_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/b/d/bdd7491nyphilips0009as__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/b/d/bdd7491nyphilips0009as__4_.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Philips India",
     "category": "HairCare",
     "sub_category": "Hair_Dryers",
@@ -135,13 +140,13 @@
     "card_title": "Gorgio Professional Hair Dryer (HDB06)",
     "title": "Gorgio Professional Hair Dryer (HDB06)",
     "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/a/f/af7afa0659499659253ws__2_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/a/f/af7afa0659499659253ws__4_.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "price": 2999,
     "cuttedPrice":"MRP20",
     "src": "https://images-static.nykaa.com/media/catalog/product/a/f/af7afa0659499659253ws__1_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/a/f/af7afa0659499659253ws__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/a/f/af7afa0659499659253ws__4_.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Gorgio Professional",
     "category": "HairCare",
     "sub_category": "Hair_Dryers",
@@ -152,14 +157,15 @@
     "card_title": "Ikonic Professional Pro Curler -- Black",
     "title": "Ikonic Professional Pro Curler - Black",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/d/e/ded95fcikoni00000002_3.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/d/e/ded95fcikoni00000002_4.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "price": 6750,
     "cuttedPrice":"MRP5400",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/d/e/ded95fcikoni00000002_1.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/d/e/ded95fcikoni00000002_3.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/d/e/ded95fcikoni00000002_4.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Ikonic Professional",
     "category": "HairCare",
     "sub_category": "Curling_Irons/Stylers",
@@ -170,14 +176,14 @@
     "card_title": "Agaro Hair Curler Stylish -- (HC-8001)",
     "title": "Agaro Hair Curler (HC-8001)",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/8/9/8904320002060as_1_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/8/9/8904320002060as_3_.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "price": 1595,
     "cuttedPrice":"MRP767",
  
     "src": "https://images-static.nykaa.com/media/catalog/product/8/9/8904320002060s.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/8/9/8904320002060as_1_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/8/9/8904320002060as_3_.jpg?tr=w-344,h-344,cm-pad_resize",
+   
     "brand": "Agaro",
     "category": "HairCare",
     "sub_category": "Curling_Irons/Stylers",
@@ -193,11 +199,11 @@
     "price": 1895,
     "cuttedPrice":"MRP549",
    "Images":[
-
+    "https://images-static.nykaa.com/media/catalog/product/7/4/740040anovax00000007_5.jpg?tr=w-344,h-344,cm-pad_resize",
+    "https://images-static.nykaa.com/media/catalog/product/7/4/740040anovax00000007_2.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/7/4/740040anovax00000007_1.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/7/4/740040anovax00000007_5.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/7/4/740040anovax00000007_2.jpg?tr=w-344,h-344,cm-pad_resize",
+
     "brand": "Nova",
     "category": "Shaving",
     "sub_category": "Trimmers",
@@ -211,11 +217,12 @@
     "price": 3999,
     "cuttedPrice":"MRP1600",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/a/f/af25682ballisticzg1__2_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/a/f/af25682ballisticzg1__5_.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/a/f/af25682ballisticzg1__1_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/a/f/af25682ballisticzg1__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/a/f/af25682ballisticzg1__5_.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "ZLADE",
     "category": "Shaving",
     "sub_category": "Trimmers",
@@ -229,11 +236,11 @@
     "price": 6990,
     "cuttedPrice":"MRP4790",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/d/b/db72c458903558284545__2_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/d/b/db72c458903558284545__4_.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/d/b/db72c458903558284545__1_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/d/b/db72c458903558284545__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/d/b/db72c458903558284545__4_.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "CARRERA",
     "category": "Shaving",
     "sub_category": "Shavers",
@@ -247,11 +254,12 @@
     "price": 3499,
     "cuttedPrice":"MRP2974",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/6/3/63f4e364210201400448_3.jpg?tr=w-344,h-344,cm-pad_resize",
+    "https://images-static.nykaa.com/media/catalog/product/6/3/63f4e364210201400448_4.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/6/3/63f4e364210201400448.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/6/3/63f4e364210201400448_3.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/6/3/63f4e364210201400448_4.jpg?tr=w-344,h-344,cm-pad_resize",
+     
     "brand": "Braun",
     "category": "Shaving",
     "sub_category": "Shavers",
@@ -262,14 +270,15 @@
     "card_title": "Bronson Professional Derma Roller Bronson Professional",
     "title": "Bronson Professional Derma Roller Bronson Professional 0.50mm 540 Needles",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/b/d/bd99534nybronson002_br__2_.jpg?tr=w-344,h-344,cm-pad_resize",
+     "https://images-static.nykaa.com/media/catalog/product/b/d/bd99534nybronson002_br__3_.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "price": 360,
     "cuttedPrice":"MRP284",
   
     "src": "https://images-static.nykaa.com/media/catalog/product/b/d/bd99534nybronson002_br__1_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/b/d/bd99534nybronson002_br__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/b/d/bd99534nybronson002_br__3_.jpg?tr=w-344,h-344,cm-pad_resize",
+     
     "brand": "Bronson Professional",
     "category": "Facial",
     "sub_category": "Dermarollers",
@@ -280,14 +289,15 @@
     "card_title": "Nykaa Naturals Gua Sha Stone - Green Jade",
     "title": "Nykaa Naturals Gua Sha Stone - Green Jade",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/8/9/8904245713959_2_1.jpg?tr=w-344,h-344,cm-pad_resize",
+     "https://images-static.nykaa.com/media/catalog/product/8/9/8904245713959_3.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "price": 1799,
     "cuttedPrice":"MRP1439",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/1/-/1-product-with-strip_1_1.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/8/9/8904245713959_2_1.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/8/9/8904245713959_3.jpg?tr=w-344,h-344,cm-pad_resize",
+     
     "brand": "Nykaa Naturals",
     "category": "Facial",
     "sub_category": "Dermarollers",
@@ -298,14 +308,14 @@
     "card_title": "Nykaa Naturals CleanTouch 2 in 1 Face Brush...",
     "title": "Nykaa Naturals CleanTouch 2 in 1 Face Brush & Massager for Deep Cleansing & Exfoliation - Green",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/3/-/3-reasons-to-love_1_1.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/4/-/4-top-features_1_1.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "price": 2999,
     "cuttedPrice":"MRP2249",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/1/-/1-product-with-strip_1_6.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/3/-/3-reasons-to-love_1_1.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/4/-/4-top-features_1_1.jpg?tr=w-344,h-344,cm-pad_resize",
+     
     "brand": "Nykaa Naturals",
     "category": "Facial",
     "sub_category": "Cleansing_Brushes",
@@ -316,14 +326,15 @@
     "card_title": "Flawless 3 in 1 electric facial cleanser and massager brush",
     "title": "Flawless 3 in 1 electric facial cleanser and massager brush",
     "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/6/7/6725084754502044672%20(2).jpg?tr=w-344,h-344,cm-pad_resize",
+     "https://images-static.nykaa.com/media/catalog/product/6/7/6725084754502044672%20(3).jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "price": 5500,
     "cuttedPrice":"MRP4125",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/6/7/6725084754502044672%20(2).jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/6/7/6725084754502044672%20(2).jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/6/7/6725084754502044672%20(3).jpg?tr=w-344,h-344,cm-pad_resize",
+     
     "brand": "Flawless",
     "category": "Facial",
     "sub_category": "Cleansing_Brushes",
@@ -334,14 +345,14 @@
     "card_title": "Bombay Shaving Company Precision Face Razor",
     "title": "Bombay Shaving Company Precision Face Razor",
    "Images":[
-
+    "https://images-static.nykaa.com/media/catalog/product/1/a/1a04cb7BOMBA00000021_YU5.jpg?tr=w-344,h-344,cm-pad_resize",
+    "https://images-static.nykaa.com/media/catalog/product/1/a/1a04cb7BOMBA00000021_YU6.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "price": 150,
     "cuttedPrice":"MRP99",
 
     "src": "https://images-static.nykaa.com/media/catalog/product/1/a/1a04cb7BOMBA00000021_YU4.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/1/a/1a04cb7BOMBA00000021_YU5.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/1/a/1a04cb7BOMBA00000021_YU6.jpg?tr=w-344,h-344,cm-pad_resize",
+   
     "brand": "Bombay Shaving Company",
     "category": "Facial",
     "sub_category": "Face_Epilator",
@@ -357,11 +368,11 @@
     "price": 5000,
     "cuttedPrice":"MRP3750",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/7/9/798a894FLAWL00000008_PRA%20(2).jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/7/9/798a894FLAWL00000008_PRA%20(3).jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/7/9/798a894FLAWL00000008_PRA%20(1).jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/7/9/798a894FLAWL00000008_PRA%20(2).jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/7/9/798a894FLAWL00000008_PRA%20(3).jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Flawless",
     "category": "Facial",
     "sub_category": "Face_Epilator",
@@ -375,11 +386,11 @@
     "price": 2999,
     "cuttedPrice":"MRP1529",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/a/f/af080f1697521184700__6_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/a/f/af080f1697521184700__7_.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/a/f/af080f1697521184700__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/a/f/af080f1697521184700__6_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/a/f/af080f1697521184700__7_.jpg?tr=w-344,h-344,cm-pad_resize",
+   
     "brand": "IGRiD",
     "category": "Facial",
     "sub_category": "Acne_Removal",
@@ -393,11 +404,11 @@
     "price": 2990,
     "cuttedPrice":"MRP2542",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/7/b/7b28688winst00000006_apr__2_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/7/b/7b28688winst00000006_apr__6_.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/7/b/7b28688winst00000006_apr__1_.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/7/b/7b28688winst00000006_apr__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/7/b/7b28688winst00000006_apr__6_.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Winston Electronics",
     "category": "Facial",
     "sub_category": "Acne_Removal",
@@ -411,11 +422,11 @@
     "price": 7525,
     "cuttedPrice":"MRP6396",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/e/c/ecee5e54987176068965_2.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/e/c/ecee5e54987176068965_3.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/e/c/ecee5e54987176068965.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/e/c/ecee5e54987176068965_2.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/e/c/ecee5e54987176068965_3.jpg?tr=w-344,h-344,cm-pad_resize",
+   
     "brand": "Braun",
     "category": "HairCare",
     "sub_category": "Epilators",
@@ -426,14 +437,14 @@
     "card_title": "Philips Epilator G-3059-32 - (BRE235)",
     "title": "Philips Epilator BRE235",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/0/5/05f74918710103897644as__2_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/0/5/05f74918710103897644as__6_.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "price": 2795,
     "cuttedPrice":"MRP2249",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/0/5/05f74918710103897644as__1_.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/0/5/05f74918710103897644as__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/0/5/05f74918710103897644as__6_.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Philips India",
     "category": "HairCare",
     "sub_category": "Epilators",
@@ -444,14 +455,14 @@
     "card_title": "Braun Body Mini Trimmer Bs1000, Electric Body Hair",
     "title": "Braun Body Mini Trimmer Bs1000, Electric Body Hair Removal For Everybody, For On-the-go",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/c/b/cb0b93c4210201313922_2.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/c/b/cb0b93c4210201313922_3.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "price": 2499,
     "cuttedPrice":"MRP2124",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/c/b/cb0b93c4210201313922.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/c/b/cb0b93c4210201313922_2.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/c/b/cb0b93c4210201313922_3.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Braun",
     "category": "HairCare",
     "sub_category": "Body_Groomers",
@@ -465,11 +476,11 @@
     "price": 799,
     "cuttedPrice":"MRP703",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/2/a/2a32031alant00000021_pa__2_.png?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/2/a/2a32031alant00000021_pa__9_.png?tr=w-344,h-344,cm-pad_resize"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/2/a/2a32031alant00000021_pa__1_.png?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/2/a/2a32031alant00000021_pa__2_.png?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/2/a/2a32031alant00000021_pa__9_.png?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Alan Truman",
     "category": "HairCare",
     "sub_category": "Body_Groomers",
@@ -483,11 +494,12 @@
     "price": 2250,
     "cuttedPrice":"MRP1650",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/8/9/8901396322955_new_4_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/8/9/8901396322955_new_8_.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/8/9/8901396322955_new_1_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/8/9/8901396322955_new_4_.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/8/9/8901396322955_new_8_.jpg?tr=w-344,h-344,cm-pad_resize",
+   
     "brand": "Veet",
     "category": "HairCare",
     "sub_category": "Bikini_Trimmers",
@@ -498,14 +510,14 @@
     "card_title": "Braun Silk-epil 9-890+ Bikini Styler, Hair Remover",
     "title": "Braun Silk-epil 9-890+ Bikini Styler, Hair Remover for Long-lasting Results",
     "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/f/3/f35e197braun00000003_1.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/f/3/f35e197braun00000003_5.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "price": 12355,
     "cuttedPrice":"MRP1050",
 
     "src": "https://images-static.nykaa.com/media/catalog/product/f/3/f35e197braun00000003.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/f/3/f35e197braun00000003_1.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/f/3/f35e197braun00000003_5.jpg?tr=w-344,h-344,cm-pad_resize",
+   
     "brand": "Braun",
     "category": "HairCare",
     "sub_category": "Bikini_Trimmers",
@@ -516,14 +528,14 @@
     "card_title": "Nykaa Facial Ice Globes for Depuffing & Skin Tightening",
     "title": "Nykaa Facial Ice Globes for Depuffing & Skin Tightening",
     "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/8/9/8904245715069_3.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/8/9/8904245715069_4.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "price": 3699,
     "cuttedPrice":"MRP2774",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245715069_1.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/8/9/8904245715069_3.jpg?tr=w-344,h-344,cm-pad_resize",
-    ""https://images-static.nykaa.com/media/catalog/product/8/9/8904245715069_4.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Nykaa Naturals",
     "category": "Massage",
     "sub_category": "Massagers",
@@ -537,11 +549,12 @@
     "price": 1000,
     "cuttedPrice":"MRP340",
      "Images":[
+        "https://images-static.nykaa.com/media/catalog/product/b/8/b846138nybronson0016as__3_.jpg?tr=w-344,h-344,cm-pad_resize",
+        "https://images-static.nykaa.com/media/catalog/product/b/8/b846138nybronson0016as__4_.jpg?tr=w-344,h-344,cm-pad_resize"
 
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/b/8/b846138nybronson0016as__2_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/b/8/b846138nybronson0016as__3_.jpg?tr=w-344,h-344,cm-pad_resize",
-     "https://images-static.nykaa.com/media/catalog/product/b/8/b846138nybronson0016as__4_.jpg?tr=w-344,h-344,cm-pad_resize",
+   
     "brand": "Bronson Professional",
     "category": "Massage",
     "sub_category": "Massagers",
@@ -555,11 +568,11 @@
     "price": 1295,
     "cuttedPrice":"MRP1099",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_3.jpg"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_1.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_2.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_3.jpg",
+    
     "brand": "Nykaa",
     "category": "Lipstics",
     "sub_category": "Lipsticks",
@@ -570,14 +583,14 @@
     "card_title": "M.A.C Matte Lipstick - Mehr",
     "title": "M.A.C Matte Lipstick - Mehr",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__3.jpg"
     ],
     "price": 7000,
     "cuttedPrice":"MRP6300",
     
     "src" : "mages-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__1.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__2.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/3/8/38e529a773602284580_rv__3.jpg",
+   
     "brand": "M.A.C",
     "category": "Lipsticks",
     "sub_category": "Lipsticks",
@@ -588,14 +601,14 @@
     "card_title": "Maybelline New York Color Sensational Ultimattes Lipstick - More Scarlet",
     "title": "Maybelline New York Color Sensational Ultimattes Lipstick - More Scarlet",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249_1.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/b/d/bdd7491nyphilips0009as__4_.jpg?tr=w-344,h-344,cm-pad_resize"
     ],
     "price": 1345,
     "cuttedPrice":"MRP967",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/e/0/e052e50MAYBE00000249_1.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/b/d/bdd7491nyphilips0009as__4_.jpg?tr=w-344,h-344,cm-pad_resize",
+    
     "brand": "Maybellene",
     "category": "Lipsticks",
     "sub_category": "Lipsticks",
@@ -606,13 +619,13 @@
     "card_title": "Kay Beauty Matte Drama Long Stay Lipstick - Red Carpet(4.2gm)",
     "title": "Kay Beauty Matte Drama Long Stay Lipstick - Red Carpet  (4.2gm)",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/2/-/2-hand-swatch_2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/2/_/2_light_21.jpg"
     ],
     "price": 2999,
     "cuttedPrice":"MRP23",
     "src": "https://images-static.nykaa.com/media/catalog/product/r/e/red-carpet_2.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/2/-/2-hand-swatch_2.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/2/_/2_light_21.jpg",
+    
     "brand": "Kay",
     "category": "Lipsticks",
     "sub_category": "Lipsticks",
@@ -626,11 +639,11 @@
     "price": 550,
     "cuttedPrice":"MRP450",
   "Images":[
-
+    "https://images-static.nykaa.com/media/catalog/product/8/9/8904245711894_2.jpg",
+    "https://images-static.nykaa.com/media/catalog/product/3/-/3-jhanvi-image_2.jpg"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245711894_1.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/8/9/8904245711894_2.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/3/-/3-jhanvi-image_2.jpg",
+    
     "brand": "Nykaa",
     "category": "Lipsticks",
     "sub_category": "Lipsticks",
@@ -644,11 +657,11 @@
     "price": 1295,
     "cuttedPrice":"MRP1099",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_3.jpg"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_1.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_2.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/4/b/4be13ef8904245711023_3.jpg",
+   
     "brand": "Nykaa",
     "category": "Lipstics",
     "sub_category": "Lipsticks",
@@ -662,11 +675,11 @@
     "price": 1895,
 "cuttedPrice":"MRP 549",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/7/c/7c5116c8411061823514_1.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/7/c/7c5116c8411061823514_2.jpg"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/7/c/7c5116c8411061823514.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/7/c/7c5116c8411061823514_1.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/7/c/7c5116c8411061823514_2.jpg",
+    
     "brand": "Carolina",
     "category": "Perfumes",
     "sub_category": "Perfumes",
@@ -677,14 +690,14 @@
     "card_title": "Yves Saint Laurent Libre Eau De Parfum (50ml)",
     "title": "Yves Saint Laurent Libre Eau De Parfum (50ml)",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/3/a/3a56e183614272648418_2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/3/a/3a56e183614272648418_3.jpg"
     ],
     "price": 3999,
     "cuttedPrice":"MRP1600",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/3/a/3a56e183614272648418_1.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/3/a/3a56e183614272648418_2.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/3/a/3a56e183614272648418_3.jpg",
+   
     "brand": "Yves",
     "category": "Perfumes",
     "sub_category": "Perfumes",
@@ -695,14 +708,14 @@
     "card_title": "Kayali Invite Only Amber | 23 EDP (100ml)",
     "title": "Kayali Invite Only Amber | 23 EDP (100ml)",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/c/1/c1d51b46291106034844_2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/c/1/c1d51b46291106034844_3.jpg"
     ],
     "price": 6990,
     "cuttedPrice":"MRP4790",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/c/1/c1d51b46291106034844_1.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/c/1/c1d51b46291106034844_2.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/c/1/c1d51b46291106034844_3.jpg",
+   
     "brand": "Kayali",
     "category": "Perfumes",
     "sub_category": "Perfumes",
@@ -713,14 +726,14 @@
     "card_title": "Yves Saint Laurent Libre Eau De Parfum Intense (90ml)",
     "title": "Yves Saint Laurent Libre Eau De Parfum Intense (90ml)",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/e/1/e1f1d593614273069557-2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/e/1/e1f1d593614273069557-3.jpg"
     ],
     "price": 3499,
     "cuttedPrice":"MRP2974",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/e/1/e1f1d593614273069557-1.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/e/1/e1f1d593614273069557-2.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/e/1/e1f1d593614273069557-3.jpg",
+   
     "brand": "Yves",
     "category": "Perfumes",
     "sub_category": "Perfumes",
@@ -731,14 +744,14 @@
     "card_title": "Kayali Lovefest Burning Cherry 48 Eau De Parfum(10ml)",
     "title": "Kayali Lovefest Burning Cherry 48 Eau De Parfum (10ml)",
     "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/b/c/bc83e5bKAYAL00000069_2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/b/c/bc83e5bKAYAL00000069_3.jpg"
     ],
     "price": 360,
     "cuttedPrice":"MRP284",
 
     "src": "https://images-static.nykaa.com/media/catalog/product/b/c/bc83e5bKAYAL00000069_1.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/b/c/bc83e5bKAYAL00000069_2.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/b/c/bc83e5bKAYAL00000069_3.jpg",
+   
     "brand": "Kayai",
     "category": "Perfumes",
     "sub_category": "Perfumes",
@@ -749,14 +762,14 @@
     "card_title": "Kayali Vanilla Royale Sugared Patchouli 64 Eau De Parfum  Intense(10ml)",
     "title": "Kayali Vanilla Royale Sugared Patchouli 64 Eau De Parfum Intense (10ml)",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/0/b/0b5207bKAYAL00000083_2.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/0/b/0b5207bKAYAL00000083_3.jpg"
     ],
     "price": 1799,
     "cuttedPrice":"MRP1439",
     
     "src": "https://images-static.nykaa.com/media/catalog/product/0/b/0b5207bKAYAL00000083_1.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/0/b/0b5207bKAYAL00000083_2.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/0/b/0b5207bKAYAL00000083_3.jpg",
+    
     "brand": "Kayali",
     "category": "Perfumes",
     "sub_category": "Perfumes",
@@ -767,14 +780,15 @@
     "card_title": "Kayali Very Vanilla Set (50ml+10ml)",
     "title": "Kayali Very Vanilla Set (50ml+10ml)",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/c/9/c91d6a7KAYAL00000064_1.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/c/9/c91d6a7KAYAL00000064_3.jpg"
     ],
     "price": 2999,
     "cuttedPrice":"MRP2249",
     
-    ""https://images-static.nykaa.com/media/catalog/product/c/9/c91d6a7KAYAL00000064_1.jpg",
+    
     "src": "https://images-static.nykaa.com/media/catalog/product/c/9/c91d6a7KAYAL00000064_2.jpg",
-     "https://images-static.nykaa.com/media/catalog/product/c/9/c91d6a7KAYAL00000064_3.jpg",
+  
     "brand": "Kayali",
     "category": "Perfumes",
     "sub_category": "Perfumes",
@@ -788,11 +802,11 @@
     "price": 5500,
     "cuttedPrice":"MRP4125",
      "Images":[
-
+        "https://images-static.nykaa.com/media/catalog/product/k/a/kayali_6291107571928_alt1.jpg",
+        "https://images-static.nykaa.com/media/catalog/product/k/a/kayali_6291107571928_alt2.jpg"
     ],
     "src": "https://images-static.nykaa.com/media/catalog/product/k/a/kayali_6291107571928_main.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/k/a/kayali_6291107571928_alt1.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/k/a/kayali_6291107571928_alt2.jpg",
+  
     "brand": "Kayali",
     "category": "Perfumes",
     "sub_category": "Perfumes",
@@ -803,14 +817,14 @@
     "card_title": "Versace Bright Crystal Eau De Toilette(50ml)",
     "title": "Versace Bright Crystal Eau De Toilette(50ml)",
    "Images":[
-
+    "https://images-static.nykaa.com/media/catalog/product/c/e/certificate_nykaa_versace_6_1.jpg",
+    "https://images-static.nykaa.com/media/catalog/product/8/0/8011003993819.jpg"
     ],
     "price": 150,
     "cuttedPrice":"MRP99",
 
     "src": "https://images-static.nykaa.com/media/catalog/product/8/0/8011003993819.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/c/e/certificate_nykaa_versace_6_1.jpg",
-    ""https://images-static.nykaa.com/media/catalog/product/8/0/8011003993819.jpg",
+
     "brand": "Versaca",
     "category": "Perfumes",
     "sub_category": "Perfumes",
