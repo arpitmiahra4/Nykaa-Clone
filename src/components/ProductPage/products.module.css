@@ -1,8 +1,21 @@
-.productsContainer{
-
-    height: auto ;
+.productMain{
+    display: flex;
     width: 100%;
+    
+    justify-content: space-around;
+}
 
+.filterBoxs{
+    width: 25%;
+    height: 300px;
+    margin-top: 100px;
+}
+
+
+.productsContainer{
+    height: auto ;
+    width: 65%;
+    
 }
 
 .prodHeading{
@@ -13,7 +26,7 @@
 }
 
 .products{
-    width: 65%;
+    width: 90%;
     height: auto;
 
     margin: auto;
@@ -30,18 +43,15 @@
     font-size: medium;
 }
 .productCard{
-
+    
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    height: auto;
 }
-.productCard *{
-    margin:5px 0px;
-  
-}
+
 .productCard p{
     text-align: center;
     padding:5px;
 }
-
 
 
 .stars{
@@ -53,16 +63,17 @@
 
 .btns{
     width:100%;
-  
+    position: relative;
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-top: 20px;
-    visibility: hidden;
+   visibility: hidden;
+   top: 0;
 }
-.btns:hover{
-   display: block;
+.productCard:hover .btns{
    visibility: visible;
+   
 }
 .btns button{
     
@@ -71,14 +82,40 @@
 .btns .heartbtn{
 text-align: center;
 font-size: 30px;
-padding: 5px 8px;
-color:#fc2779
-
+padding: 6px 8px;
+color:#fc2779;
+border-top: 1px solid rgb(232, 232, 232);
+border-bottom: 1px solid rgb(232, 232, 232);
 }
 .btns .primary{
     width: 90%;
     font-size: 26px;
-    padding: 6px 8px;
+    padding: 4px 8px;
     background-color:#fc2779 ;
-    color:white
+    color:white;
+    border-radius: 5px;
+}
+
+.paginate{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    gap: 0px 30px;
+    margin: 5px 0px 20px 0px ;
+    color: #fc2779;
+}
+
+.paginate button{
+    border: 1px solid #fc2779;
+    padding:0px 15px;
+    border-radius: 30%;
+}
+.paginate button:hover{
+    background-color: #fc2779;
+    color: aliceblue;
+}
+.stBtn{
+    background-color: #fc2779;
+    color: aliceblue;
 }

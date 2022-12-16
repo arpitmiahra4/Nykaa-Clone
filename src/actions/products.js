@@ -1,10 +1,10 @@
 import { GET_PRODUCTS_ERROR, GET_PRODUCTS_LOADING, GET_PRODUCTS_SUCCESS } from "../constants/actionTypes"
 import axios from "axios";
-export const getProducts=(page)=>async (dispatch)=>{
+export const getProducts=(url)=>async (dispatch)=>{
     dispatch({type:GET_PRODUCTS_LOADING});
     try {
       
-        const res=await axios.get(`https://nykaaa-mock-api.onrender.com/products?_limit=15&_page=${page}`);
+        const res=await axios.get(url);
 
         dispatch({type:GET_PRODUCTS_SUCCESS,payload:res.data});
     } catch (error) {
