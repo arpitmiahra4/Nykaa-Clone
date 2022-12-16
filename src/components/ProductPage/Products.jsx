@@ -5,6 +5,8 @@ import { useDispatch, useSelector } from "react-redux";
 import { getProducts } from '../../actions/products';
 // import {Navigate} from "react-router-dom"
 import ProductCard from './ProductCard';
+import Skeleton from './Skeleton';
+import DataNotFound from './DataNotFound';
 
 const brands = [
     "Phillips India", "Agaro", "Nykaa Naturals", "Nova", "Braun", "Nykaa", "Flawless", "Alan Truman", "Bronson Professional", "Kayali", "Yves", "Versaca"
@@ -34,12 +36,12 @@ const Products = () => {
         setOrder(e.target.value);
     }
 
-    console.log(sort, category, brand);
+    // console.log(sort, category, brand);
     const toast=useToast();
     const dispatch = useDispatch();
     const data = useSelector((state) => state.productsManager);
 
-    console.log(data);
+    // console.log(data);
     const getUrl = (page, order, sort, category, brand) => {
 
         let baseUrl = `https://nyka-json.onrender.com/products?_limit=12&_order=${order}&_page=${page}`;
@@ -77,17 +79,17 @@ const Products = () => {
 
 
     if (data.loading) {
-        return <h1 className={styles.prodHeading}>Loading.....</h1>
+        return <Skeleton/>
     }
 
     else if(page>1 && data.products.length===0){
-      return <h1 className={styles.prodHeading}>No data found...</h1>
+      return <DataNotFound/>
        
     }
 
     else if((category || sort || brand) &&  data.products.length===0){
         
-        return <h1 className={styles.prodHeading}>No data found...</h1>
+        return  <DataNotFound/>
        
     }
 

@@ -1,0 +1,103 @@
+
+
+.singleProdCont{
+    width: 100%;
+   
+    margin: 30px auto;
+    height: 600px;
+    
+}
+
+.singleMain{
+    width: 100%;
+   margin: auto;
+   display: flex;
+   align-items: center;
+   
+}
+.imageCard{
+    width: 50%;
+   
+    height: 420px;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px 12px;
+    padding: 20px ;
+}
+
+.multiImg{
+   
+    width: 20%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 4px;
+}
+
+.multiImg>img{
+    background-position: center;
+    border-radius: 4px;
+}
+
+.multiImg>img:hover{
+    cursor: pointer;
+}
+
+
+.singleImage{
+    border: 1px solid rgb(161, 161, 161);
+    width: 70%;
+    height: 100%;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.singleImage>img{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 4px;
+}
+
+.detailsCard{
+    height: 420px;
+    width: 50%;
+    border-left: 1px solid rgb(136, 136, 136);
+    padding: 20px 0px;
+}
+
+.detailsCard>div{
+   
+    width: 100%;
+    height: 50%;
+    padding:0px 20px;
+}
+.starRating{
+    display: flex;
+    align-items: center;
+    font-size: large;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: rgb(94, 94, 94);
+}
+.stars{
+    display: flex;
+    gap: 0px 3px;
+    margin-right: 20px;
+}
+
+.mrp,.inc{
+    font-size: large;
+    margin-bottom: 10px;
+}
+
+
+.btnAddress{
+    border: 1px solid red;
+}
