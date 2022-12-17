@@ -9,6 +9,8 @@ import { useParams } from 'react-router-dom';
 import style from "../ProductPage/products.module.css";
 import styles from "../SingleProduct/product.module.css";
 import { Box, SkeletonCircle, SkeletonText } from '@chakra-ui/react';
+import { useDispatch } from 'react-redux';
+import { addToCart } from '../../actions/cart';
 
 const SingleProduct = () => {
     const params = useParams();
@@ -16,8 +18,12 @@ const SingleProduct = () => {
     const [product, setProduct] = useState({});
     const [loading, setLoading] = useState(false);
     const [active, setActive] = useState(0);
+    const dispatch=useDispatch();
     
-
+    const handleCart=(product)=>{
+        dispatch(addToCart(product));
+ 
+   }
    
     let id = Number(params.id);
     const getProduct = async (id) => {
@@ -108,7 +114,7 @@ const SingleProduct = () => {
                     </div>
                     <div className={styles.btnAddress}>
                         <div className={styles.btn}>
-                             <button className={styles.cart}>Add to cart</button> 
+                             <button className={styles.cart} onClick={()=>handleCart(product)}>Add to cart</button> 
                              <button className={styles.wish}></button>
                         </div>
                         <div className={styles.address}>
