@@ -6,6 +6,7 @@ import ProfileOption from "./ProfileOption"
 const MAIN = () => {
   return (
     <div style={{display:"flex",width:"80%",margin:"auto",marginTop:"20px",marginBottom:"20px"}}>
+      
       <Box w="250px" boxShadow="rgba(0, 0, 0, 0.35) 0px 5px 15px" >
         <ProfileOption />
       </Box>
