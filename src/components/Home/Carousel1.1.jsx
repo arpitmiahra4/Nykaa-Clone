@@ -43,7 +43,14 @@ const Carousel1 = () => {
       <Slide {...properties}>
         {slideImages.map((slideImage, index) => (
           <div className={styles.eachslide} key={index}>
-            <div style={{ backgroundImage: `url(${slideImage.url})` ,borderRadius:"10px" , marginLeft:"10px",marginRight:"10px"}}></div>
+            <div
+              style={{
+                backgroundImage: `url(${slideImage.url})`,
+                borderRadius: "10px",
+                marginLeft: "10px",
+                marginRight: "10px",
+              }}
+            ></div>
           </div>
         ))}
       </Slide>

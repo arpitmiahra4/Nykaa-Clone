@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <ChakraProvider>
       <Home />
-      <ScrollButton/>
+      <ScrollButton />
     </ChakraProvider>
   );
 }
