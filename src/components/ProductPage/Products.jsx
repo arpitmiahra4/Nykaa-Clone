@@ -13,13 +13,14 @@ const brands = [
 ];
 
 const Products = () => {
+    
     const [page, setPage] = useState(1);
     const [order, setOrder] = useState("asc");
-   
+    
     const [sort, setSort] = React.useState('');
     const [category, setCategory] = useState("");
     const [brand, setBrand] = useState("");
-
+    
     const handleSort = (event) => {
         setSort(event.target.value);
     };
@@ -37,7 +38,7 @@ const Products = () => {
     }
 
     // console.log(sort, category, brand);
-    const toast=useToast();
+    // const toast=useToast();
     const dispatch = useDispatch();
     const data = useSelector((state) => state.productsManager);
 

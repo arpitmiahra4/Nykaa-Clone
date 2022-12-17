@@ -2,10 +2,12 @@ import {applyMiddleware, combineReducers, compose, legacy_createStore} from "red
 import { productReducer } from "../reducers/products";
 import thunk from "redux-thunk"
 import { cartReducer } from "../reducers/cart";
+import { wishListReducer } from "../reducers/wishlist";
 
 export const rootReducer=combineReducers({
     productsManager:productReducer,
-    cartsManager:cartReducer
+    cartsManager:cartReducer,
+    wishListsManager:wishListReducer
 });
 
 
