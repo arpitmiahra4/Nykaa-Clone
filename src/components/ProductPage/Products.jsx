@@ -75,7 +75,7 @@ const Products = () => {
     useEffect(() => {
         const url = getUrl(page, order, sort, category, brand);
         dispatch(getProducts(url));
-    }, [dispatch,page, order, sort, category, brand])
+    }, [page, order, sort, category, brand])
 
 
     if (data.loading) {

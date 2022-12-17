@@ -40,7 +40,7 @@ const ProductCard = ({ product }) => {
 
       <div className={styles.btns}>
         <button className={styles.heartbtn}><BsHeart /></button>
-        <button className={styles.primary} onClick={handleCart}>Add to Bag</button>
+        <button className={styles.primary} onClick={()=>handleCart(product)}>Add to Bag</button>
       </div>
     </div>
   )
