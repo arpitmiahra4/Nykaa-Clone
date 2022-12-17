@@ -1,20 +1,29 @@
 import React, { useState } from 'react'
 import { BsHeart } from 'react-icons/bs';
 import { FaStar } from 'react-icons/fa';
+import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
+import { addToCart } from '../../actions/cart';
 import styles from "../ProductPage/products.module.css";
 
 const ProductCard = ({ product }) => {
   const [stars, setStars] = useState(Number(product.rating));
+  const dispatch=useDispatch();
+  const data=useSelector((state)=>state);
+  console.log(data);
   const navigate=useNavigate();
   const starArr = new Array(Math.floor(stars)).fill(0);
   const handleClick = (id) => {
      navigate(`/products/${id}`) ;
     
   }
+
+  const handleCart=(product)=>{
+       dispatch(addToCart(product));
+  }
   return (
-    <div className={styles.productCard} onClick={() => handleClick(product.id)}>
-      <img src={product.image1} alt={product.title} />
+    <div className={styles.productCard} >
+      <img src={product.image1} alt={product.title} onClick={() => handleClick(product.id)}/>
       <p className={styles.title}>{product.title}</p>
       <p className={styles.price}>MRP : <span style={
         { "textDecoration": "line-through", "marginRight": "8px" }
@@ -31,7 +40,7 @@ const ProductCard = ({ product }) => {
 
       <div className={styles.btns}>
         <button className={styles.heartbtn}><BsHeart /></button>
-        <button className={styles.primary}>Add to Bag</button>
+        <button className={styles.primary} onClick={handleCart}>Add to Bag</button>
       </div>
     </div>
   )
