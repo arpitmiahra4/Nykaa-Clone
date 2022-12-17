@@ -1,7 +1,5 @@
 
 
-
-
 import React from "react";
 import { FaHouseUser } from "react-icons/fa";
 import { Link } from "react-router-dom";
@@ -12,7 +10,7 @@ const AdminNavbar = () => {
         <div className="container">
           <span className="navbar-brand">
             {" "}
-            <FaHouseUser /> Admin Workspace{" "}
+            <FaHouseUser /> Admin Page{" "}
           </span>
 
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
@@ -39,5 +37,3 @@ const AdminNavbar = () => {
 };
 
 export default AdminNavbar;
-
-
