@@ -11,7 +11,7 @@ function App() {
     <MainNavbar />
     <Main />
     {/* <Thnks /> */}
-    {/* <Admin/> */}
+    <Admin/>
     <Footer />
    </div>
   );
