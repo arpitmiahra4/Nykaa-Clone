@@ -24,7 +24,7 @@ const AdminHomePage = () => {
           <div className="col-md-6">
             <div className="mb-3">
               <label htmlFor="exampleInputName" className="form-label">
-                User Name
+                Product Name
               </label>
               <input
                 type="text"
