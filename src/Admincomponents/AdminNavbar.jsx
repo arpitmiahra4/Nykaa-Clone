@@ -7,7 +7,7 @@
 
 import React from "react";
 
-const Footer = () => {
+const AdminFooter = () => {
   return (
     <div className="bg-dark text-white text-center p-4 mt-3">
       <h2>Design And Developed By : Chandrashekhar joshi</h2>
@@ -16,4 +16,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
+export default AdminFooter;
