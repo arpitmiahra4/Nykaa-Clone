@@ -17,7 +17,267 @@
             "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_6.jpg?rnd=20200526195200"
         ],
         "id":1
-    }
+    },
+    {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-300,/9937dd4N2010_1.jpg?rnd=20200526195200",
+      "title":"Gillori",
+      "subTitle":"Sitara Wine Gold Printed Suit",
+      "price":"₹2,805",
+      "cuttedPrice":"MRP₹3,299",
+      "discription":"Give your weekend wardrobe a contemporary twist with this purple top and lower set from Gillori. Made from rayon, the top features a square neck and is accentuated with three-quarter sleeves. Style it with a pair of mules, chandelier earrings, and a half-moon bag to complete the ensemble.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/Gillori_Logo.jpg",
+      "type":"Kurta Sets",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_5.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_6.jpg?rnd=20200526195200"
+      ],
+      "id":1
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/a/tr:w-480,/eac26c6RS_RSVP0137_1.jpg?rnd=20200526195200",
+      "title":"RSVP by Nykaa Fashion",
+      "subTitle":"Metallic Ready For The Party Dress",
+      "price":"₹3,972",
+      "cuttedPrice":"MRP₹5,295",
+      "discription":"This dress is crafted in silver sequin knit on stretch knit and has a polyester knit lining inside, it features an overlapping V-neckline, three fourth length sleeves, ruched side and a side zip for closure. Style With: Stilettos, shimmer clutch and statement earrings for a girls night out.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/RSVP-by-Nykaa-Fashion.jpg",
+      "type":"Mini",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/a/eac26c6RS_RSVP0137_1.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/a/eac26c6RS_RSVP0137_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/a/eac26c6RS_RSVP0137_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/a/eac26c6RS_RSVP0137_6.jpg?rnd=20200526195200"
+          
+      ],
+      "id":2
+      },
+      
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/c/tr:w-480,/9c80674RS_ZKP01019780_1.jpg?rnd=20200526195200",
+      "title":"Rustorange",
+      "subTitle":"Maroon V Neck Gathered Dress",
+      "price":"₹1,410",
+      "cuttedPrice":"MRP₹2,349",
+      "discription":"Pick this elegant V-neck design if you are looking for something unique and fashionable to add to your wardrobe. The graceful flow of the maroon fabric mimics a waterfall pattern that exudes a vibrant appeal and an organic feel. The chic and elegant prints in the upper part of the garment are crafted to seamlessly blend with the brilliant maroon shade of the lower section. Pair this up with some matching jewellery and the right pair of flats.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/RustOrange.png",
+      "type":"Mini",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/c/9c80674RS_ZKP01019780_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/c/9c80674RS_ZKP01019780_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/c/9c80674RS_ZKP01019780_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/c/9c80674RS_ZKP01019780_5.jpg?rnd=20200526195200"
+      ],
+      "id":3
+      },
+      {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/9/tr:w-480,/798fabdBBCASS109_1.jpg?rnd=20200526195200",
+      "title":"Calmna",
+      "subTitle":"Brown Berry Chikankari Anarkali Suit Set-brown (Set of 3)",
+      "price":"₹6,800",
+      "cuttedPrice":"MRP₹7,999",
+      "discription":"This product contains Kurta , Pant and dupatta Wash & Care - Dry clean Only",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/calmna.jpg",
+      "type":"Anarkali Sets",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/9/798fabdBBCASS109_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/9/798fabdBBCASS109_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/9/798fabdBBCASS109_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/9/798fabdBBCASS109_5.jpg?rnd=20200526195200"
+      ],
+      "id":4
+      },
+      {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/i/n/tr:w-480,/inching-india-wvs018_1_649fe421.jpg?rnd=20200526195200",
+      "title":"Inching India",
+      "subTitle":"Wine Velvet Suit (Set of 3)",
+      "price":"₹7,553",
+      "cuttedPrice":"MRP₹7,950",
+      "discription":"This Wine Velvet Suit is a must-have this winter season. It comes in a flowy silhouette, with beautiful floral motifs embroidered on the scalloped sleeves, palazzos and dupatta. The magnificent color of this outfit enhances its rich look. Order yours now!",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/png_II-13_80x.png",
+      "type":"Kurta Sets",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/i/n/inching-india-wvs018_2_2b9edbd7.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/i/n/inching-india-wvs018_3_a7fd8c50.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/i/n/inching-india-wvs018_4_6eee2d7f.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/i/n/inching-india-wvs018_5_549aa9e9.jpg?rnd=20200526195200"
+      ],
+      "id":5
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/6/tr:w-480,/3652136MM-1102_1.jpg?rnd=20200526195200",
+      "title":"MISH",
+      "subTitle":"Maroon Puff Sleeve Midi Dress",
+      "price":"₹1,870",
+      "cuttedPrice":"MRP₹3,399",
+      "discription":"Maroon solid boat neck with puff sleeve and waist ruching detail mid length dress Wash & Care - Hand wash",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/Mish.jpg",
+      "type":"Midi",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/6/3652136MM-1102_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/6/3652136MM-1102_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/6/3652136MM-1102_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/6/3652136MM-1102_5.jpg?rnd=20200526195200"
+      ],
+      "id":6
+  }
+  ,{
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/3/tr:w-480,/73001bcNYFS_TWENT00004635_1.jpg?rnd=20200526195200",
+      "title":"Twenty Dresses by Nykaa Fashion",
+      "subTitle":"Brighten My Mood Dress",
+      "price":"₹1,797",
+      "cuttedPrice":"MRP₹2,395",
+      "discription":"Product Details: This floral printed dress features a square neckline and short puff sleeves.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/TwentyDresses_new_logo_2_.jpg",
+      "type":"Midi",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/3/73001bcNYFS_TWENT00004635_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/3/73001bcNYFS_TWENT00004635_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/3/73001bcNYFS_TWENT00004635_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/7/3/73001bcNYFS_TWENT00004635_6.jpg?rnd=20200526195200"
+      ],
+      "id":7
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/a/tr:w-480,/8ad87c9KKH__DOLC308_1.jpg?rnd=20200526195200",
+      "title":"DOLCE CRUDO",
+      "subTitle":"Black Skinny Fit High Rise Denim Jeans",
+      "price":"₹960",
+      "cuttedPrice":"MRP₹2,399",
+      "discription":"Sitting comfy on the waist with a form flattering fit, these black jeans from Dolce Crudo are a must-have in your casual collection. Style these with a classic white top or a graphic printed t-shirt and a pair of white sneakers to finish to the look.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/Dolce-Crudo.jpg",
+      "type":"",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/a/8ad87c9KKH__DOLC308_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/a/8ad87c9KKH__DOLC308_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/a/8ad87c9KKH__DOLC308_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/a/8ad87c9KKH__DOLC308_1.jpg?rnd=20200526195200"
+      ],
+      "id":8
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/y/a/tr:w-480,/ya7807_1_0ea31764.jpg?rnd=20200526195200",
+      "title":"AKS",
+      "subTitle":"Pastel Green & Pink Gold Printed Button Down Kurta",
+      "price":"₹585",
+      "cuttedPrice":"MRP₹1,299",
+      "discription":"Elegant and in trend this, pastel green & pink gold printed button down kurta from AKS is a perfect pick for upcoming festive events. Crafted with premium quality cotton material and floral pattern all over it offers a comfortable fit. Style this outfit with golden stud earrings and a pair heels to attain a glorious look.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/AKS.png",
+      "type":"Printed",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/y/a/ya7807_2_53080a18.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/y/a/ya7807_3_539cbb75.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/y/a/ya7807_3_539cbb75.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/y/a/ya7807_5_9419cc24.jpg?rnd=20200526195200"
+      ],
+      "id":9
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/0/tr:w-480,/30fa884JOPLVL245_1.jpg?rnd=20200526195200",
+      "title":"Rajnandini",
+      "subTitle":"Maroon Coloured Rayon Embroidered Kurta Set With Dupatta (Set of 3)",
+      "price":"₹1,866",
+      "cuttedPrice":"MRP₹4,665",
+      "discription":"Make a stellar addition to your ethnic wardrobe with this red kurta set by Rajnandini. Made with the finest material, this set features a kurta that has a round neck and three-fourth sleeves. The mid-waist pants have a straight-leg silhouette. The dupatta brings the entire outfit together. Style this set with a pair of statement earrings, juttis, and a clutch to complete the look.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/R._LOGO_1__1.jpg",
+      "type":"Kurta Sets",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/0/30fa884JOPLVL245_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/0/30fa884JOPLVL245_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/0/30fa884JOPLVL245_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/0/30fa884JOPLVL245_5.jpg?rnd=20200526195200"
+      ],
+      "id":10
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/8/tr:w-480,/a8cd93aACHNGJUL27_1.jpg?rnd=20200526195200",
+      "title":"Aachho",
+      "subTitle":"Neria Gotapatti Tier Suit (Set of 3)",
+      "price":"₹4,600",
+      "cuttedPrice":"MRP₹5,750",
+      "discription":"Slay every occasion in our Neria Gotapatti Tier Suit Set. Crafted in a bright orange, this suit set features a full-length stylish tiered kurta with straight pants and organza dupatta.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/Aachho.jpg",
+      "type":"Angarkha Set",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/8/a8cd93aACHNGJUL27_10.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/8/a8cd93aACHNGJUL27_6.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/8/a8cd93aACHNGJUL27_7.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/8/a8cd93aACHNGJUL27_7.jpg?rnd=20200526195200"
+      ],
+      "id":11
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/0/tr:w-480,/405a7c6Rigo-WTOP253-1240-Black_1.jpg?rnd=20200526195200",
+      "title":"RIGO",
+      "subTitle":"Black Front Slit Maxi Top",
+      "price":"₹451",
+      "cuttedPrice":"MRP₹1,099",
+      "discription":"Enhance your style to new lengths with this front slit maxi top. Team it with a pair of chic leggings and flats for a contemporary evening look.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/RIGO.jpg",
+      "type":"Full Sleeves",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/0/405a7c6Rigo-WTOP253-1240-Black_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/0/405a7c6Rigo-WTOP253-1240-Black_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/0/405a7c6Rigo-WTOP253-1240-Black_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/0/405a7c6Rigo-WTOP253-1240-Black_5.jpg?rnd=20200526195200"
+      ],
+      "id":12
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/b/tr:w-480,/1bb6931NYKFF_LSDY0030_1.jpg?rnd=20200526195200",
+      "title":"Label Shaurya Sanadhya",
+      "subTitle":"Black Lehenga And Choli With Dupatta (Set Of 3)",
+      "price":"₹5,250",
+      "cuttedPrice":"MRP₹6,999",
+      "discription":"This set by Label Shaurya Sanadhya will make a chic addition to your ethnic wear collection. Complete the look by wearing statement jewellery and heels.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/Label_shaurya_sanadhya_logo.png",
+      "type":"Top and Skirt Set",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/b/1bb6931NYKFF_LSDY0030_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/b/1bb6931NYKFF_LSDY0030_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/b/1bb6931NYKFF_LSDY0030_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/b/1bb6931NYKFF_LSDY0030_5.jpg?rnd=20200526195200"
+      ],
+      "id":13
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/0/tr:w-480,/30fa884JOPLVL245_1.jpg?rnd=20200526195200",
+      "title":"Rajnandini",
+      "subTitle":"Maroon Coloured Rayon Embroidered Kurta Set With Dupatta (Set of 3)",
+      "price":"₹1,866",
+      "cuttedPrice":"MRP₹4,664",
+      "discription":"Make a stellar addition to your ethnic wardrobe with this red kurta set by Rajnandini. Made with the finest material, this set features a kurta that has a round neck and three-fourth sleeves. The mid-waist pants have a straight-leg silhouette. The dupatta brings the entire outfit together. Style this set with a pair of statement earrings, juttis, and a clutch to complete the look.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/R._LOGO_1__1.jpg",
+      "type":"Kurta Sets",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/0/30fa884JOPLVL245_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/0/30fa884JOPLVL245_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/0/30fa884JOPLVL245_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/0/30fa884JOPLVL245_8.jpg?rnd=20200526195200"
+      ],
+      "id":14
+  },
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-300,/9937dd4N2010_1.jpg?rnd=20200526195200",
+      "title":"Gillori",
+      "subTitle":"Sitara Wine Gold Printed Suit",
+      "price":"₹2,805",
+      "cuttedPrice":"MRP₹3,299",
+      "discription":"Give your weekend wardrobe a contemporary twist with this purple top and lower set from Gillori. Made from rayon, the top features a square neck and is accentuated with three-quarter sleeves. Style it with a pair of mules, chandelier earrings, and a half-moon bag to complete the ensemble.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/Gillori_Logo.jpg",
+      "type":"Kurta Sets",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_2.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_3.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_4.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_5.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/9937dd4N2010_6.jpg?rnd=20200526195200"
+      ],
+      "id":15
+  }
+
 ],
 
 "men":[
