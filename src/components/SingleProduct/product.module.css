@@ -1,7 +1,7 @@
 
 
 .singleProdCont{
-    width: 100%;
+    width: 85%;
    
     margin: 30px auto;
     height: 600px;
@@ -83,7 +83,7 @@
     align-items: center;
     font-size: large;
     font-weight: 600;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     color: rgb(94, 94, 94);
 }
 .stars{
@@ -94,10 +94,79 @@
 
 .mrp,.inc{
     font-size: large;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 
 .btnAddress{
-    border: 1px solid red;
+    
+    display: flex;
+    align-items: center;
+}
+
+
+.btn{
+   width: 40%; 
+}
+.address{
+    width: 60%;
+    border-left: 1px solid grey;
+    height: 100%;
+    padding-left: 7px;
+}
+
+.cart{
+    width: 80%;
+    border: 1px solid rgb(98, 98, 98);
+    padding: 10px 15px;
+    margin: auto;
+    margin-right: 10px;
+   text-align: center;
+   background-color: #f337c7;
+   color: azure;
+   font-size: large;
+   border-radius: 5px;
+}
+.cart:hover{
+    color: #f8e0f2;
+    background-color: #f414c0;
+}
+.pin{
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    margin: 10px 0px;
+}
+
+.inputPin{
+    width: 100%;
+    border: 1px solid blue;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    gap: 0px 5px;
+}
+
+.inputPin input{
+    width: 65%;
+    height: 50px;
+    border: 1px solid rgb(79, 79, 79);
+    border-radius: 5px;
+    padding: 3px 15px;
+}
+
+.inputPin button{
+    width: 30%;
+    border: 1px solid green;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #f73bcb;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.inputPin button:hover{
+    color: #f8e0f2;
+    background-color: #f414c0;
 }
