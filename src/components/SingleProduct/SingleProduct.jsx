@@ -1,18 +1,30 @@
 import axios from 'axios';
-import React from 'react'
+import React from 'react';
+import {FcCheckmark} from "react-icons/fc"
 import { useEffect } from 'react';
 import { useState } from 'react';
-import { FaStar } from 'react-icons/fa';
+import {CiLocationOn} from "react-icons/ci/"
+import {  FaStar } from 'react-icons/fa';
 import { useParams } from 'react-router-dom';
 import style from "../ProductPage/products.module.css";
 import styles from "../SingleProduct/product.module.css";
+import { Box, SkeletonCircle, SkeletonText } from '@chakra-ui/react';
+import { useDispatch } from 'react-redux';
+import { addToCart } from '../../actions/cart';
+
 const SingleProduct = () => {
     const params = useParams();
     console.log(params);
     const [product, setProduct] = useState({});
     const [loading, setLoading] = useState(false);
     const [active, setActive] = useState(0);
-
+    const dispatch=useDispatch();
+    
+    const handleCart=(product)=>{
+        dispatch(addToCart(product));
+ 
+   }
+   
     let id = Number(params.id);
     const getProduct = async (id) => {
         try {
@@ -34,19 +46,39 @@ const SingleProduct = () => {
     if (stars) {
         starArr = new Array(stars).fill(1);
     }
-    console.log(product, images);
-    console.log(stars)
+   
+      
+      
+
     useEffect(() => {
         getProduct(id)
     }, []);
 
+    
+
     if (loading) {
-        return <h1 className={style.prodHeading}>Loading.....</h1>
+        return <div className={style.skeleton}>
+        <Box padding='6' boxShadow='lg'>
+            <SkeletonCircle size='10' />
+            <SkeletonText mt='4' noOfLines={7} spacing='4' skeletonHeight='2' />
+
+        </Box>
+        <Box padding='6' boxShadow='lg' >
+            <SkeletonCircle size='10' />
+            <SkeletonText mt='4' noOfLines={7} spacing='4' skeletonHeight='2' />
+
+        </Box>
+        <Box padding='6' boxShadow='lg' >
+            <SkeletonCircle size='10' />
+            <SkeletonText mt='4' noOfLines={7} spacing='4' skeletonHeight='2' />
+
+        </Box>
+        </div>
     }
 
     return (
         <div className={styles.singleProdCont}>
-            <h1 className={style.prodHeading}>Single Product id {id}</h1>
+            
 
             <div className={styles.singleMain}>
                 <div className={styles.imageCard}>
@@ -78,14 +110,24 @@ const SingleProduct = () => {
                         <p className={styles.mrp}>
                             MRP: <span style={{"textDecoration":"line-through"}}>{product.price}</span>&nbsp; <span style={{"fontSize":"larger","fontWeight":"bold"}}> ₹{product.off_price}</span> &nbsp;<span style={{"color":"green"}}>{product.offer}% Off</span>
                         </p>
-                        <p className={styles.inc}>Inclusive all taxes</p>
+                        <p className={styles.inc}>inclusive all taxes</p>
                     </div>
                     <div className={styles.btnAddress}>
-                        <div >
-
+                        <div className={styles.btn}>
+                             <button className={styles.cart} onClick={()=>handleCart(product)}>Add to cart</button> 
+                             <button className={styles.wish}></button>
                         </div>
                         <div className={styles.address}>
-
+                               <div className={styles.pin}><CiLocationOn/> &nbsp; <p>  Delivery options for: <span style={{"color":"#f337c7"}}> 752031 </span></p></div>
+                               <div className={styles.pin}>
+                               <FcCheckmark/>&nbsp;<p> Shipping to Balugaon , India</p>
+                               </div>
+                               <div className={styles.pin}>
+                               <FcCheckmark/>&nbsp;<p> Delivery by 25th Dec</p>
+                               </div>
+                               <div className={styles.pin}>
+                               <FcCheckmark/>&nbsp;<p> Cash on Delivery available on orders above 499/-</p>
+                               </div>
                         </div>
                     </div>
                 </div>
