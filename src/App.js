@@ -1,5 +1,5 @@
 
-import './App.css';
+// import './App.css';
 import Footer from './components/Footer/Footer';
 import MainNavbar from './components/Navbar/MainNavbar';
 import Main from './Main';
@@ -8,10 +8,10 @@ import Admin from './Admin/Admin';
 function App() {
   return (
    <div className='App'>
-    {/* <MainNavbar />
-    <Main /> */}
+    <MainNavbar />
+    <Main />
     {/* <Thnks /> */}
-    <Admin/>
+    {/* <Admin/> */}
     <Footer />
    </div>
   );

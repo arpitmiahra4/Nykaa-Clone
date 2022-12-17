@@ -1,24 +1,29 @@
-
 import React from "react";
-import Header from "../Components/Header";
-
+import AdminNavbar from '../Admincomponents/AdminNavbar'
+import "../Admin.module.css"
 const AdminUsersList = () => {
   const profilePIcDefault =
     "https://static.vecteezy.com/system/resources/previews/002/318/271/non_2x/user-profile-icon-free-vector.jpg";
   return (
     <div>
-      <Header />
+
+
+      <AdminNavbar />
+
       <div className="container content">
         <div className="border mt-4 p-4">
+
           <h3 className="text-center bg-info p-2 mb-3">
             Welcome To User Management System
           </h3>
           <div className="row">
+
             <div className="col-md-4">
               <div className="d-flex flex-column align-items-center ">
                 <img
                   src={
                     localStorage.getItem("img")
+
                       ? localStorage.getItem("img")
                       : profilePIcDefault
                   }
@@ -29,6 +34,8 @@ const AdminUsersList = () => {
                 />
               </div>
             </div>
+
+            
             <div className="col-md-6 d-flex align-items-center">
               <div className="ms-4">
                 <h4>
@@ -38,15 +45,15 @@ const AdminUsersList = () => {
                     : "NA"}
                 </h4>
                 <h4>
-                Product Name :{" "}
-                  {localStorage.getItem("title")
-                    ? localStorage.getItem("title")
+                  Email :{" "}
+                  {localStorage.getItem("email")
+                    ? localStorage.getItem("email")
                     : "NA"}
                 </h4>
                 <h4>
-                Product type :{" "}
-                  {localStorage.getItem("Product_type")
-                    ? localStorage.getItem("Product_type")
+                  Gender :{" "}
+                  {localStorage.getItem("gender")
+                    ? localStorage.getItem("gender")
                     : "NA"}
                 </h4>
                 <p>

@@ -1,16 +1,15 @@
-
-
 import React from "react";
 import { FaHouseUser } from "react-icons/fa";
 import { Link } from "react-router-dom";
-const AdminNavbar = () => {
+import "../Admin.module.css"
+const  AdminNavbar = () => {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
         <div className="container">
           <span className="navbar-brand">
             {" "}
-            <FaHouseUser /> Admin Page{" "}
+            <FaHouseUser /> User Managment System{" "}
           </span>
 
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
@@ -36,4 +35,4 @@ const AdminNavbar = () => {
   );
 };
 
-export default AdminNavbar;
+export default AdminNavbar

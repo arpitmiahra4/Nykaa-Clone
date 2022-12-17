@@ -1,8 +1,7 @@
-
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
-
+import "../Admin.module.css"
 const AdminLoginPage = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -51,6 +50,9 @@ const AdminLoginPage = () => {
             <input
               type="password"
               className="form-control"
+
+
+              
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               id="exampleInputPassword1"
