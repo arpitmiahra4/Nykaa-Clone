@@ -3,15 +3,15 @@ import './App.css';
 import Footer from './components/Footer/Footer';
 import MainNavbar from './components/Navbar/MainNavbar';
 import Main from './Main';
-import Admin from './Admin/Admin';
+// import Admin from './Admin/Admin';
 // import Thnks from './components/Payment/paymentComponent/Thnks';
 function App() {
   return (
    <div className='App'>
-    {/* <MainNavbar />
-    <Main /> */}
+    <MainNavbar />
+    <Main />
     {/* <Thnks /> */}
-    <Admin/>
+    {/* <Admin/> */}
     <Footer />
    </div>
   );

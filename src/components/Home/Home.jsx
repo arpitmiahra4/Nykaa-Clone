@@ -4,6 +4,7 @@ import React from "react";
 import Carousel1 from "./Carousel1.1";
 import Carousel2 from "./Carousel1.2";
 import Carousel10 from "./Carousel10";
+import Carousel11 from "./Carousel11";
 import Carousel3 from "./Carousel3";
 import Carousel4 from "./Carousel4";
 import Carousel5 from "./Carousel5";
@@ -170,6 +171,18 @@ const dis_nyka = [
     dis: "Shop Now",
   },
 ];
+const pop_store = [
+  {
+    src:"https://images-static.nykaa.com/uploads/386bd4dc-d11e-4117-aae2-b917127e8624.jpg?tr=w-600,cm-pad_resize",
+    title:"Up To 70% Off: Products Beyond Beauty",
+    dis:"Lingerie | Gadgets | Bags | Jewellery & More"
+  },
+  {
+    src:"https://images-static.nykaa.com/uploads/efec51c7-9c99-4f4f-a697-fd00caf8b548.jpg?tr=w-600,cm-pad_resize",
+    title:"Up To 70% Off",
+    dis:"Stunning jewels to refine your looks"
+  }
+]
 const Home = () => {
   axios
     .get("http://localhost:4000")
@@ -500,17 +513,19 @@ const Home = () => {
         </Text>
         <Text fontSize={20}>From Nykaa Fashion</Text>
         <Box mt={5} display="flex" gap={5}>
-          <Image
-            src="https://images-static.nykaa.com/uploads/386bd4dc-d11e-4117-aae2-b917127e8624.jpg?tr=w-600,cm-pad_resize"
-            w="700px"
-            borderRadius={10}
-          />
-          <Image
-            src="https://images-static.nykaa.com/uploads/efec51c7-9c99-4f4f-a697-fd00caf8b548.jpg?tr=w-600,cm-pad_resize"
-            w="700px"
-            borderRadius={10}
-          />
+          {pop_store.map((el, i)=>(
+            <Box key={i} border="1px solid gray" borderRadius={10}>
+              <Image src={el.src} w="700px" borderRadius={10} />
+              <Box pl={5} pb={2}>
+                <Text fontWeight="bold">{el.title}</Text>
+                <Text color="gray.700">{el.dis}</Text>
+              </Box>
+            </Box>
+          ))}
         </Box>
+      </Box>
+      <Box mt={7}>
+        <Carousel11 />
       </Box>
     </div>
   );
