@@ -422,7 +422,8 @@
       }
   
 ],
-"kids":[
+
+"kids": [
   {
       "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/e/tr:w-300,/3ef7d79AN13965_1.jpg?rnd=20200526195200",
       "title":"Anthrilo",
@@ -665,8 +666,9 @@
          "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/4/tr:w-480,/14197a1WS-CDRS-6059SKY_4.jpg?rnd=20200526195200"
       ],
       "id":12
-  }
-"cosmetics":[
+    }
+],
+"cosmetics": [
   
 {
     "subTitle": "Nykaa So Creme! Creamy Matte Lipstick - Nailed It (4.2gm)",
