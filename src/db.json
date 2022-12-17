@@ -19,13 +19,152 @@
         "id":1
     }
 ],
-"men":[],
+
+"men":[
+  {
+      "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/t/s/tshirt2000black_1_d2b52667.jpg?rnd=20200526195200",
+      "title":"Chkokko",
+      "subTitle":"Black Turtle Neck T-Shirt",
+      "price":"₹2,805",
+      "cuttedPrice":"MRP₹3,299",
+      "discription":"A staple that exudes timeless modernity is this black t-shirt from Chkokko. Sculpted in a flattering frame for an impeccable fit, this turtle neck t-shirt is completed with long sleeves. Style this t-shirt with a pair of distressed denims and boots to attain a cool look.",
+      "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/CHKOKKO.jpg",
+      "type":"Black Turtle Neck T-Shirt",
+      "Images":[
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/t/s/tshirt2000black_1_d2b52667.jpg?rnd=20200526195200",
+          "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/t/s/tshirt2000black_2_01ffc3b3.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/t/s/tshirt2000black_3_27f22fdd.jpg?rnd=20200526195200"
+      ],
+      "id":1
+  },
+      {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/4/3499fe8CKMH3BMEHANDI_1.jpg?rnd=20200526195200",
+          "title":"Chkokko",
+          "subTitle":"Men's Cotton Regular Fit Polo T-shirt",
+          "price":"₹2,805",
+          "cuttedPrice":"MRP₹3,299",
+          "discription":"This comfortfit t-shirt from Chkokko is an actual combination of ease and composure with double stitching at borders. Crafted in the finest material, this polo t-shirt features a collar neck and half sleeves. Style it with trousers and sneakers to complete the look.",
+          "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/CHKOKKO.jpg",
+          "type":"Men's Cotton Regular Fit Polo T-shirt",
+          "Images":[
+              "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/4/3499fe8CKMH3BMEHANDI_1.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/4/3499fe8CKMH3BMEHANDI_2.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/4/3499fe8CKMH3BMEHANDI_3.jpg?rnd=20200526195200"
+          ],
+          "id":2
+      },
+      {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/9/a9d4116BP0905P08_1.jpg?rnd=20200526195200",
+          "title":"Clovia",
+          "subTitle":"Non-padded Non-wired Demi Cup Front Open Bralette & Low Waist Bikini Panty-pink",
+          "price":"₹2,805",
+          "cuttedPrice":"MRP₹3,299",
+          "discription":"Soft Pink Plunge Bralette Low Waist Bikini Panty Set.Bralette With Plunging Neckline For Low Neck Outfits.Crafted With Soft Powernet Fabric Has Navy Lace Fabric On The Cups.Non-Padded Cups To Avoid Extra Bulk.Non-Wired Cups For A Poke-Free Experience.Demi Cups For Slightly Low Necklines.Designer Racerback Embellished With Lace For A Trendy Look To Avoid Strap Slips.Hook On The Front For Convenient Opening.Bikini Panty Has Medium Coverage.Crafted With Semi-Sheer Soft Powernet Fabric.Designed With Navy Lace Insert At The Front For Added Appeal.Soft Elastic At The Waistband Leg Openings For A Snug Fit.Double Layered Gusset For Hygiene.",
+          "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/Clovia.Logo.jpg",
+          "type":"Non-padded Non-wired Demi Cup Front Open Bralette & Low Waist Bikini Panty-pink",
+          "Images":[
+              
+          ],
+          "id":3
+      },
+      {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/4/84aa7bbI006-ARN-P3_1.jpg?rnd=20200526195200",
+          "title":"U.S. POLO ASSN.",
+          "subTitle":"Men Assorted I006 Mid Rise Contrast Waist Briefs Multi-Color (Pack of 3)",
+          "price":"₹2,805",
+          "cuttedPrice":"MRP₹3,299",
+          "discription":"These U. S. Polo Assn. briefs will make a sound addition to your underwear drawer. Cut from super combed cotton jersey with a bio finish for good absorbency and breathability, they're soft and comfortable for you to wear all day. The precise fit makes them perfect for wearing under trim tailoring.",
+          "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/US-Polo-Assn.jpg",
+          "type":"U.S. POLO ASSN.",
+          "Images":[
+              "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/4/84aa7bbI006-ARN-P3_1.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/4/84aa7bbI006-ARN-P3_2.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/4/84aa7bbI006-ARN-P3_4.jpg?rnd=20200526195200"
+          ],
+          "id":4
+      },    {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/d/m/dmapl_dam-prin-b-ds_1_ff1cc977.jpg?rnd=20200526195200",
+          "title":"DaMENSCH",
+          "subTitle":"Men Deo-Soft Deodorizing Micro Modal Printed Briefs - Grey",
+          "price":"₹2,805",
+          "cuttedPrice":"MRP₹3,299",
+          "discription": " Proprietary DEO-SOFT Fabric:3x softer than cotton fabric with inbuilt bacteriostatic function that doesn't let bacteria grow, hence keeping odour free & comfy all day",
+          "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/d/m/dmapl_dam-prin-b-ds_4_db92830c.jpg?rnd=20200526195200",
+          "type":"Men Deo-Soft Deodorizing Micro Modal Printed Briefs - Grey",
+          "Images":[
+              "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/d/m/dmapl_dam-prin-b-ds_1_ff1cc977.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/d/m/dmapl_dam-prin-b-ds_2_640dfeac.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/d/m/dmapl_dam-prin-b-ds_3_af83198e.jpg?rnd=20200526195200"
+          ],
+          "id":5
+      },
+      {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/s/s/ss21jn_shdap_m_pln_dbu_1_4fab4e47.jpg?rnd=20200526195200",
+          "title":"Campus Sutra",
+          "subTitle":"Blue Patterned Jeans",
+          "price":"₹2,805",
+          "cuttedPrice":"MRP₹3,299",
+          "discription":"Elevate your stylish collection with these blue slim-fit jeans from Campus Sutra. Made from high-quality denim fabric, they are comfortable to wear and stylish in look. They can be teamed up with a graphic t-shirt and sneakers to complete your stylish look.",
+          "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/CampusSutra.jpg",
+          "type":"Blue Patterned Jeans",
+          "Images":[
+              "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/s/s/ss21jn_shdap_m_pln_dbu_1_4fab4e47.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/s/s/ss21jn_shdap_m_pln_dbu_2_833e86de.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/s/s/ss21jn_shdap_m_pln_dbu_3_94ed48ed.jpg?rnd=20200526195200"
+          ],
+          "id":6
+      },    {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/5/35d4351CS21WIN_CSMAWSR365_1.jpg?rnd=20200526195200",
+          "title":"Campus Sutra",
+          "subTitle":"Men Solid Full Sleeve Stylish Casual Sweaters",
+          "price":"₹2,805",
+          "cuttedPrice":"MRP₹3,299",
+          "discription":"This sweater from campus sutra clothing is just what your wardrobe needs to unlock your fashion potential. when you're going out side match this piece with trim denims or casual trouser and sneakers.",
+          "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/CampusSutra.jpg",
+          "type":"Men Solid Full Sleeve Stylish Casual Sweaters",
+          "Images":[
+              "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/5/35d4351CS21WIN_CSMAWSR365_1.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/5/35d4351CS21WIN_CSMAWSR365_2.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/5/35d4351CS21WIN_CSMAWSR365_3.jpg?rnd=20200526195200"
+          ],
+          "id":7
+      },    {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/b/e/be2aaad46398701_1.jpg?rnd=20200526195200",
+          "title":"Forever 21",
+          "subTitle":"Printed Sweater Tops In Black",
+          "price":"₹2,805",
+          "cuttedPrice":"MRP₹3,299",
+          "discription":"Look classy and elegant in this stylish black printed sweater by Forever 21. Pair it up with your favourite black shoes and a stunning watch to complete the look.",
+          "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/Forever21.jpg",
+          "type":"Printed Sweater Tops In Black",
+          "Images":[
+              "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/b/e/be2aaad46398701_1.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/b/e/be2aaad46398701_3.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/b/e/be2aaad46398701_4.jpg?rnd=20200526195200"
+          ],
+          "id":8
+      },
+      {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/0/b/0bd3f46WINSWT01_1.jpg?rnd=20200526195200",
+          "title":"",
+          "subTitle":"Navy Blue Round Neck Pullover",
+          "price":"₹2,805",
+          "cuttedPrice":"MRP₹3,299",
+          "discription":"The classic sweater has gone on to be a wardrobe staple. The essential has a sophisticated yet minimal take for a relaxed and comfortable vibe. Wear it with your denims or chinos for maximum effect.",
+          "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/0/b/0bd3f46WINSWT01_3.jpg?rnd=20200526195200",
+          "type":"",
+          "Images":[
+              "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/0/b/0bd3f46WINSWT01_1.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/0/b/0bd3f46WINSWT01_2.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/0/b/0bd3f46WINSWT01_3.jpg?rnd=20200526195200"
+              
+          ],
+          "id":9
+      },
+      {
+          "src":"https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/2/623fc38UN_DER00003618_1.jpg?rnd=20200526195200",
+          "title":"Underjeans By Spykar",
+          "subTitle":"Men Camo 2 Cotton Blend Brief Multi-Color",
+          "price":"₹2,805",
+          "cuttedPrice":"MRP₹3,299",
+          "discription":"With a super stylish print that matches your young and quirky attitude, this brief from Underjeans by Spykar is a perfect comfort and fashion inclusive choice for you. Crafted in pure cotton, it is breathable, harmless to the skin, and absorbs moisture. Get yours now and enjoy complete freedom throughout the day.",
+          "logoUrl":"https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/category/tr:w-176,/Underjeans.jpg",
+          "type":"Underjeans By Spykar",
+          "Images":[
+              "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/2/623fc38UN_DER00003618_1.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/2/623fc38UN_DER00003618_2.jpg?rnd=20200526195200","https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/2/623fc38UN_DER00003618_3.jpg?rnd=20200526195200"
+          ],
+          "id":10
+      }
+  
+],
 "kids":[],
 "cosmetics":[
-    
-   
-   
-
+  
 {
     "subTitle": "Nykaa So Creme! Creamy Matte Lipstick - Nailed It (4.2gm)",
     "title": "Nykaa So Creme! Creamy Matte Lipstick - Nailed It (4.2gm)",
