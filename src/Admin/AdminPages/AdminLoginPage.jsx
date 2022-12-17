@@ -1,10 +1,30 @@
 
-
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 
 const AdminLoginPage = () => {
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const navigate = useNavigate();
+  //getting email password
+  const userName = localStorage.getItem("email")
+    ? localStorage.getItem("email")
+    : "chandrashekharjoshi02@gmail.com";
+  const userPassword = localStorage.getItem("password")
+    ? localStorage.getItem("password")
+    : "abc";
+
+  //submit function
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    if (email === userName && password === userPassword) {
+      toast.success("Login Success");
+      navigate("/profile");
+    } else {
+      toast.error("Invalid Email OR password");
+    }
+  };
   return (
     <>
       <div className="form__container d-flex felx-column align-items-center justify-content-center">
@@ -18,6 +38,8 @@ const AdminLoginPage = () => {
             <input
               type="email"
               className="form-control"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
               id="exampleInputEmail1"
               aria-describedby="emailHelp"
             />
@@ -29,6 +51,8 @@ const AdminLoginPage = () => {
             <input
               type="password"
               className="form-control"
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
               id="exampleInputPassword1"
             />
           </div>
@@ -37,7 +61,7 @@ const AdminLoginPage = () => {
               Don't Have An Account? <Link to="/">Signup !</Link>
             </p>
           </div>
-          <button type="submit" className="form__button">
+          <button type="submit" className="form__button" onClick={handleSubmit}>
             Login
           </button>
         </form>

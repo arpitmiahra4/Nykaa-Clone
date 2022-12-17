@@ -8,8 +8,8 @@ import Admin from './Admin/Admin';
 function App() {
   return (
    <div className='App'>
-    <MainNavbar />
-    <Main />
+    {/* <MainNavbar />
+    <Main /> */}
     {/* <Thnks /> */}
     <Admin/>
     <Footer />
