@@ -1,4 +1,4 @@
-import { Box, Button, Image, Text } from "@chakra-ui/react";
+import { Box, Image, Text } from "@chakra-ui/react";
 import React, { useState } from "react";
 import { BsHeart } from "react-icons/bs";
 import { FaStar } from "react-icons/fa";

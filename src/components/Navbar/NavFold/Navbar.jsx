@@ -64,9 +64,7 @@ const Navbar = () => {
               </p>
               <p onClick={() => handleLogin()}>{!login ? "Login" : "Logout"}</p>
             </div>
-            <div className={style.card3}>
-             
-            </div>
+            <div className={style.card3}></div>
             <ShoppingBag />
           </div>
         </div>
