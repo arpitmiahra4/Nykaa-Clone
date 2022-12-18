@@ -2,8 +2,9 @@ import React, { useState, useEffect } from "react";
 import style from "./Navbar.module.css";
 import { FaRegUser } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
-// import { MuiDrawer } from "../../ProductPage/MuiDrawer";
+import { AiFillShopping } from "react-icons/ai";
 import NavbarPopUpComponents from "../CatBar/NavbarPopUpComponents";
+import { ShoppingBag } from "@mui/icons-material";
 
 const Navbar = () => {
   const navigate = useNavigate();
@@ -64,8 +65,9 @@ const Navbar = () => {
               <p onClick={() => handleLogin()}>{!login ? "Login" : "Logout"}</p>
             </div>
             <div className={style.card3}>
-              {/* <MuiDrawer /> */}
+             
             </div>
+            <ShoppingBag />
           </div>
         </div>
 
