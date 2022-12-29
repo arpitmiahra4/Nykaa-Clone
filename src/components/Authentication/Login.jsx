@@ -23,8 +23,12 @@ function Login() {
           setPassword={setPassword}
         />
       )}
+
+   
       {view == "AuthOTP" && <PhoneOTP setView={setView} number={number} name={name} password={password} email={email}/>}
+      
     </div>
+
   );
 }
 

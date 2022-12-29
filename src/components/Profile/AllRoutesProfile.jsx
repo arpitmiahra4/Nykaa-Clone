@@ -19,7 +19,8 @@ const AllRoutesProfile = () => {
       <Route path="orders" element={<Orders />}/>
       <Route path='wishlist' element={<Wishlist/>}/>
       <Route path='savedpayment' element={ <SavedPayment />} />
-    
+     
+      {/* <Route path='Payment' element={<Payment/>}/> */}
     </Routes>
   
   )

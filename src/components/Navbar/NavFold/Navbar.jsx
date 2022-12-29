@@ -7,7 +7,7 @@ import NavbarPopUpComponents from "../CatBar/NavbarPopUpComponents";
 import { ShoppingBag } from "@mui/icons-material";
 import { Route, Routes } from 'react-router-dom'
 import MAIN from '../../../components/Profile/Main'
-
+import Signin from "../../../logs/Signin";
 const Navbar = () => {
   const navigate = useNavigate();
   const [howerState, setHowerState] = useState("");
@@ -72,6 +72,7 @@ const Navbar = () => {
             <ShoppingBag />
             </NavLink>
           </div>
+        
         </div>
 
         <div className={style.content} onMouseLeave={() => setHowerState("")}>
