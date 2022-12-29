@@ -9,7 +9,7 @@
   justify-content: space-evenly;
   align-items: center;
   height: 8vh;
-  background-color: #ffffff;
+  /* background-color: #ffffff; */
 }
 .card > div {
   display: flex;

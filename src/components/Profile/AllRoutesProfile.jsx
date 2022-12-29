@@ -1,5 +1,7 @@
+import { Login } from '@mui/icons-material'
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
+
 import Home from './Home'
 import Myprofile from './Myprofile'
 import Orders from './Orders'
@@ -17,6 +19,7 @@ const AllRoutesProfile = () => {
       <Route path="orders" element={<Orders />}/>
       <Route path='wishlist' element={<Wishlist/>}/>
       <Route path='savedpayment' element={ <SavedPayment />} />
+    
     </Routes>
   
   )

@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from "react";
 import style from "./Navbar.module.css";
 import { FaRegUser } from "react-icons/fa";
-import { useNavigate } from "react-router-dom";
+import { NavLink, useNavigate } from "react-router-dom";
 import { AiFillShopping } from "react-icons/ai";
 import NavbarPopUpComponents from "../CatBar/NavbarPopUpComponents";
 import { ShoppingBag } from "@mui/icons-material";
+import { Route, Routes } from 'react-router-dom'
+import MAIN from '../../../components/Profile/Main'
 
 const Navbar = () => {
   const navigate = useNavigate();
@@ -65,7 +67,10 @@ const Navbar = () => {
               <p onClick={() => handleLogin()}>{!login ? "Login" : "Logout"}</p>
             </div>
             <div className={style.card3}></div>
+        
+    <NavLink to="/profile/*">
             <ShoppingBag />
+            </NavLink>
           </div>
         </div>
 

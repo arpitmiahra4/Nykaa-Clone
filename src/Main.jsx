@@ -12,6 +12,7 @@ const Main = () => {
         <Route path="/profile/*" element={<MAIN />} />
         <Route path='/products' element={<Products/>}></Route>
         <Route path='/products/:id' element={<SingleProduct/>}></Route>
+        
     </Routes>
   )
 }
