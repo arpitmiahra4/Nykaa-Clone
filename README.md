@@ -26,7 +26,7 @@
 <br/><br/><br/>
 
 <h3 style="color:Tomato;">
-    Team Of 5 Members. <br />
+    Team Of 4 Members. <br />
     build this website clone during construct week in just 5 days. 
     Most focused on UI part.
 </h3>
