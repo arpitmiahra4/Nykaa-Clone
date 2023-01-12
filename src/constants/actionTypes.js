@@ -15,3 +15,8 @@ export const GET_CART_ERROR="cart/get/error";
 export const ADDTO_WISHLIST_LOADING="wishlist/post/loading";
 export const ADDTO_WISHLIST_SUCCESS="wishlist/post/success";
 export const ADDTO_WISHLIST_ERROR="wishlist/post/error";
+
+
+export const REMOVE_CART_LOADING="cart/del/loading";
+export const REMOVE_CART_SUCCESS="cart/del/success";
+export const REMOVE_CART_ERROR="cart/del/error";
