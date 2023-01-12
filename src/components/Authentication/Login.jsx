@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
 import Front from './Front'
 import Register from './Register'
-import PhoneOTP from "./AuthOTP";
+import PhoneOTP from "./AuthOtp";
 
 import { container } from "./login.css"
 function Login() {

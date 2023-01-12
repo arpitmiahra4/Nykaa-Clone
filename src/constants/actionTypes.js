@@ -7,7 +7,9 @@ export const ADDTO_CART_LOADING="cart/post/loading";
 export const ADDTO_CART_SUCCESS="cart/post/success";
 export const ADDTO_CART_ERROR="cart/post/error";
 
-
+export const GET_CART_LOADING="cart/get/loading";
+export const GET_CART_SUCCESS="cart/get/success";
+export const GET_CART_ERROR="cart/get/error";
 
 
 export const ADDTO_WISHLIST_LOADING="wishlist/post/loading";

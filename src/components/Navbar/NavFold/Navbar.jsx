@@ -8,10 +8,21 @@ import { ShoppingBag } from "@mui/icons-material";
 import { Route, Routes } from 'react-router-dom'
 import MAIN from '../../../components/Profile/Main'
 import Signin from "../../../logs/Signin";
+import { Badge, useDisclosure } from "@chakra-ui/react";
+import { useDispatch, useSelector } from "react-redux";
+import { getCartData } from "../../../actions/cart";
+import Cart from "../../Cart/Cart";
+
 const Navbar = () => {
+  const { isOpen, onOpen, onClose } = useDisclosure();
+  const [placement, setPlacement] = React.useState('right');
   const navigate = useNavigate();
+  const dispatch=useDispatch();
+  const cartTotal=useSelector((state)=>state.cartsManager.carts.length);
+  // console.log("cart...",cartTotal)
   const [howerState, setHowerState] = useState("");
   const [login, setLogin] = useState(false);
+  
   const hoverHandler = (type) => {
     setHowerState(type);
   };
@@ -25,6 +36,8 @@ const Navbar = () => {
       navigate("/login");
     }
   };
+ 
+ 
 
   useEffect(() => {
     const data =
@@ -33,6 +46,10 @@ const Navbar = () => {
 
     if (data) setLogin(true);
   }, []);
+
+  useEffect(()=>{
+    dispatch(getCartData());
+  },[dispatch])
   return (
     <>
       <div className={style.container}>
@@ -68,8 +85,10 @@ const Navbar = () => {
             </div>
             <div className={style.card3}></div>
         
-    <NavLink to="/profile/*">
-            <ShoppingBag />
+           <NavLink onClick={onOpen}>
+            
+            <Badge colorScheme='red' borderRadius={"full"} p="2px"><ShoppingBag /><span style={{"fontSize":"20px"}}>{cartTotal}</span></Badge>
+            <Cart placement={placement} onClose={onClose} isOpen={isOpen}/>
             </NavLink>
           </div>
         

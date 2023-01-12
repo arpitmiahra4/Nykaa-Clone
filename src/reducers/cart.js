@@ -1,4 +1,4 @@
-import { ADDTO_CART_ERROR, ADDTO_CART_LOADING, ADDTO_CART_SUCCESS } from "../constants/actionTypes"
+import { ADDTO_CART_ERROR, ADDTO_CART_LOADING, ADDTO_CART_SUCCESS, GET_CART_LOADING, GET_CART_SUCCESS } from "../constants/actionTypes"
 
 
 const cartState={
@@ -28,6 +28,20 @@ export const cartReducer=(state=cartState,{type,payload})=>{
                 ...state,
                 loading:false,
                 error:payload
+            }
+        }
+
+        case GET_CART_LOADING:{
+            return{
+                ...state,
+                loading:true
+            }
+        }
+        case GET_CART_SUCCESS:{
+            return{
+                ...state,
+                loading:false,
+                carts:payload
             }
         }
         default:{
