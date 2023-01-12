@@ -5,6 +5,7 @@ import MAIN from './components/Profile/Main'
 import HomePage from './components/Home/HomePage'
 import SingleProduct from './components/SingleProduct/SingleProduct'
 import Login from './components/Authentication/Login'
+import Register from './components/Authentication/Register'
 const Main = () => {
   return(
     <Routes>
@@ -13,6 +14,7 @@ const Main = () => {
         <Route path='/products' element={<Products/>}></Route>
         <Route path='/products/:id' element={<SingleProduct/>}></Route>
         <Route path="/login" element={<Login/>} />
+        <Route path="/register" element={<Register/>} />
     </Routes>
   )
 }

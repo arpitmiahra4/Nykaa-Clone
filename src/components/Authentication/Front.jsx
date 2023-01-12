@@ -16,6 +16,8 @@ import firebaseAuth from "./firebase";
 import { GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 import axios from "axios";
 import { v4 } from "uuid";
+import Register from "./Register";
+import Login from "./Login";
 function Front({ setView }) {
   const navigate = useNavigate();
   const signInWithFirebase = () => {
@@ -82,6 +84,8 @@ function Front({ setView }) {
         <br />
         <button onClick={() => navigate("/register")} style={input}>
           register
+          {/* <Login/> */}
+          {/* <Register/> */}
         </button>
         <br />
         <img

@@ -3,6 +3,7 @@ import { crossButton, input } from "./login.css";
 import { signInWithPhoneNumber } from "firebase/auth";
 import firebaseAuth from "./firebase";
 import { RecaptchaVerifier } from "firebase/auth";
+import { useNavigate } from "react-router-dom";
 
 function Register({
   setView,
@@ -13,6 +14,7 @@ function Register({
   setEmail,
 }) {
   //ReCaptcha
+  const navigate=useNavigate()
   const generateReCaptcha = () => {
     window.recaptchaVerifier = new RecaptchaVerifier(
       "recaptcha-Div",
@@ -149,7 +151,7 @@ function Register({
           id="recaptcha-Div"
         ></div>
         <div style={{ width: "80%", margin: "50px auto" }}>
-          <button type="submit" style={input}>
+          <button type="submit" style={input} onClick={()=>navigate("/login")}>
             PROCEED
           </button>
         </div>
