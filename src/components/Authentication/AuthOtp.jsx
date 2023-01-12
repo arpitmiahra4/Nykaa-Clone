@@ -58,8 +58,9 @@ function AuthOTP({ setView, number, name, password, email }) {
       })
       .catch((error) => {
         // User couldn't sign in (bad verification code?)
-        alert("Wrong verification code");
-        setView("front");
+        // alert("Wrong verification code");
+        navigate("/")
+        // setView("front");
       });
   };
 
