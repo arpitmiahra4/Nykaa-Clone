@@ -9,7 +9,8 @@
 
 **Original website link** :  https://www.nykaa.com/
  <br/>
- Link of My deployed project : https://63ada1475ad13e35586e0a54--ornate-cupcake-fb26b5.netlify.app/
+ Link of My deployed project : https://63bfed597aacf001e8b9caf6--ornate-cupcake-fb26b5.netlify.app/
+
  <br/>
  
  
